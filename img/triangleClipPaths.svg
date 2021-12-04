@@ -1,0 +1,5 @@
+<svg transform="scale(1,2)" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<clipPath id="clip" clipPathUnits="objectBoundingBox">
+		<path d="M0.501,1 L0.001,0.007 L1,0.007 L0.501,1"></path>
+	</clipPath>
+</svg>
